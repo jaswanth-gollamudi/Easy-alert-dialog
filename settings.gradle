@@ -1,0 +1,3 @@
+rootProject.name = "EasyDialog"
+include ':app'
+include ':EasyDialogs'
